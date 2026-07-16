@@ -270,12 +270,12 @@ SQL and Python were used to extract KPIs such as total revenue, average order va
 
 ---
 
-## 🕹️ Retro Terminal Dashboard
+## 🕹️Terminal Dashboard
 
 <div align="center">
 
 <p align="center">
-<img src="./asset/retro-terminal.gif" width="850">
+<img src="./asset/terminal.gif" width="850">
 </p>
 
 <br>
@@ -298,7 +298,7 @@ SQL and Python were used to extract KPIs such as total revenue, average order va
 
 <br>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ripendra6218&layout=compact&hide_border=true&bg_color=0B1020&title_color=FF4DFF&text_color=FFFFFF&border_radius=25" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ripendra6218&layout=compact&hide=jupyter%20notebook&hide_border=true&bg_color=08111F&title_color=FF4DFF&text_color=FFFFFF&border_radius=25" />
 
 </div>
 
